@@ -12,14 +12,6 @@ Ce cours s'adresse aux étudiants à la technique Technologie de l'architecture,
 Ce cours de statistique et probabilité vise à pousser plus loin les notions de statistique vues au secondaire et dans le cours de méthode quantitative pour les sciences humaines. Les notions vues dans ce cours comprennent le calcul de probabilités, l'estimation d'une moyenne à partir de données sur une population, comment effectuer des tests d'hypothèse, etc.
 
 
-### Tutorat
-
-Rencontres hebdomadaires avec des étudiants de niveau secondaire, collégial et universitaire, depuis 2009.
-Matières couvertes : 
-- Mathématiques (niveau secondaire, collégial et universitaire)
-- Physique (niveau secondaire et collégial) 
-
-
 ### Auxilière d'enseignement et correctrice
 
 **Correctrice et surveillante d'examen** pour le cours Calcul différentiel et intégral (MAT0341), à la session d'Automne 2017.
@@ -29,3 +21,11 @@ Matières couvertes :
 **Auxilière d’enseignement** pour le cours Théorie des anneaux (MAT2260), à la session d'Hiver 2018.
 - Préparation de solutions aux exercices.
 - Enseignement des solutions aux exercices lors des périodes de travaux pratiques (deux heures par semaine).
+
+
+### Tutorat
+
+Rencontres hebdomadaires avec des étudiants de niveau secondaire, collégial et universitaire, depuis 2009.
+Matières couvertes : 
+- Mathématiques (niveau secondaire, collégial et universitaire)
+- Physique (niveau secondaire et collégial) 
