@@ -1,13 +1,13 @@
 
-Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/).
+Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/). Mon sujet de thèse porte sur la théorie de la représentation du groupe symétrique, les tableaux domino et les structures de crystaux.
 
-### Objectifs de carrière
-Je souhaite enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite.
+À partir du 6 novembre 2018, j'effectuerai le remplacement de Marie-Eve Harvie au Cégep du Vieux Montréal, jusqu'à la fin de la session d'Automne 2018. Mon objectif à long terme est d'enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite. 
 
-### Navigation
-Pour en apprendre davantage sur mes expériences d'enseignement et de vulgarisation scientifique, consulter les onglets associés à gauche.
-Pour mes intérêts de recherche et mon projet de maîtrise, consulter l'onglet associé à gauche.
-Pour mes intérêts concernant des liens entre les mathématiques et d'autres domaines, consulter l'onglet Mathématiques interdisciplinaires. 
+Je donne à l'occasion des balades mathématiques, Maths en ville, offertes par le Coeur des sciences de l'UQAM. Voir l'onglet Vulgarisation des mathématiques pour plus de détails.
+
+Je suis également très intéressée à explorer les liens entre les mathématiques et d'autres domaines, voir l'onglet Mathématiques interdisciplinaires pour plus de détails. 
+
+Finalement, j'adore être en mouvement, et je suis donc une adepte de randonnée longue distance, de danse (rockabilly jive, swing), de yoga, de ski de fond, d'escalade, etc. Je fais la majorité de mes déplacements sur mon vélo, mon fidèle destrier (la plupart du temps). Je pars en voyage le plus souvent que possible, de préférence sur une longue période, pour découvrir des cultures différentes de la mienne, des paysages époustouflants, des gens merveilleux et des architectures étonnantes.
 
 [**Curriculum Vitae**] (À venir)
 
