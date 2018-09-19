@@ -3,8 +3,10 @@
 ### Enseignement
 
 J'effectuerai le remplacement de Marie-Eve Harvie au Cégep du Vieux Montréal du 6 novembre 2018 à la fin de la session d'Automne 2018. J'enseignerai les cours suivant:
-- **Mathématique appliquée à l'architecture I (Groupes 1-2)** Ce cours s'adresse aux étudiants à la technique Technologie de l'architecture, offert au Cégep du Vieux Montréal. Il vise à introduire les étudiant-e-s aux mathématiques qui leur seront utile dans leur parcours. En particulier, ce cours offre des rappel de notions vues au secondaire, permet d'explorer de nouveaux concepts mathématiques, toujours dans la visée de les appliquer à l'architecture.
-- **Méthode quantitative avancée (Groupe 1)**  Ce cours de statistique et probabilité vise à pousser plus loin les notions de statistique vues au secondaire et dans le cours de méthode quantitative pour les sciences humaines. Les notions vues dans ce cours comprennent le calcul de probabilités, l'estimation d'une moyenne à partir de données sur une population, comment effectuer des tests d'hypothèse, etc.
+- **Mathématique appliquée à l'architecture I (Groupes 1-2)** 
+Ce cours s'adresse aux étudiants à la technique Technologie de l'architecture, offert au Cégep du Vieux Montréal. Il vise à introduire les étudiant-e-s aux mathématiques qui leur seront utile dans leur parcours. En particulier, ce cours offre des rappel de notions vues au secondaire, permet d'explorer de nouveaux concepts mathématiques, toujours dans la visée de les appliquer à l'architecture.
+- **Méthode quantitative avancée (Groupe 1)**  
+Ce cours de statistique et probabilité vise à pousser plus loin les notions de statistique vues au secondaire et dans le cours de méthode quantitative pour les sciences humaines. Les notions vues dans ce cours comprennent le calcul de probabilités, l'estimation d'une moyenne à partir de données sur une population, comment effectuer des tests d'hypothèse, etc.
 
 
 ### Tutorat
