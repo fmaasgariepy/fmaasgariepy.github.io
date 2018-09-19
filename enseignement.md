@@ -29,9 +29,3 @@ Matières couvertes :
 **Auxilière d’enseignement** pour le cours Théorie des anneaux (MAT2260), à la session d'Hiver 2018.
 - Préparation de solutions aux exercices.
 - Enseignement des solutions aux exercices lors des périodes de travaux pratiques (deux heures par semaine).
-
-**Auxilière d'enseignement** pour le cours Arithmétique et géométrie classique (MAT1150), à la session d'Automne 2018.
-- Préparation de solutions aux exercices.
-- Enseignement des solutions aux exercices lors des périodes de travaux pratiques (deux heures par semaine).
-- Aide personnalisée aux étudiants (une heure de disponibilité par semaine).
-- Correction des devoirs.
