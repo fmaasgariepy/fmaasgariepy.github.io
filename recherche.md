@@ -15,7 +15,7 @@ L'objectif sera de montrer que les résultats obtenus par Van Leeuwen correspond
 
 ## Pulications
 
-Un article écrit en collaboration avec [Rebeccas Patrias], post-doctorante au LaCIM en 2017-2019, est présentement en révision.
+Un article écrit en collaboration avec [Rebeccas Patrias](http://lacim.uqam.ca/~patriasr/), post-doctorante au LaCIM en 2017-2019, est présentement en révision.
 
 - Titre : Set-valued domino tableaux and shifted set-valued domino tableaux
 - Journal : Involve
