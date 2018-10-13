@@ -11,7 +11,7 @@ Je donne à l'occasion des balades mathématiques, Maths en ville, offertes par 
 ### Sur moi
 Finalement, j'adore être en mouvement, et je suis donc une adepte de randonnée longue distance, de danse (rockabilly jive, swing), de yoga, de ski de fond, d'escalade, etc. Je fais la majorité de mes déplacements sur mon vélo, mon fidèle destrier (la plupart du temps). 
 
-Je pars en voyage le plus souvent que possible, de préférence sur une longue période, pour découvrir des cultures différentes de la mienne, des paysages époustouflants, des gens merveilleux et des architectures étonnantes. 
+Je pars en voyage le plus souvent que possible, de préférence sur une longue période, pour découvrir des cultures différentes de la mienne, des paysages époustouflants, des gens merveilleux, des architectures étonnantes, de la musique et de la nourrieture dépaysantes. J'ai visité près de 30 pays à ce jour, dont 22 en Europe.
 
 Je suis très curieuse et intéressée à plusieurs sujets comme la sociologie, l'histoire, en particulier l'histoire du féminisme et de l'Orient, la botanique, la sexologie, etc. J'aime beaucoup les langues: j'ai appris, en plus du français et l'anglais, l'espagnol et le mandarin et j'aimerais bien apprendre le néerlandais et le portugais.
 
