@@ -1,5 +1,6 @@
 
-Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/). Mon sujet de thèse porte sur la théorie de la représentation du groupe symétrique, les tableaux domino et les structures de crystaux.
+
+Je suis présentement étudiante à la maîtrise en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/). Mon sujet de thèse porte sur la théorie de la représentation du groupe symétrique, les tableaux domino et les structures de crystaux. Voir [Recherche]()
 
 À partir du 6 novembre 2018, j'effectuerai le remplacement de Marie-Eve Harvie au Cégep du Vieux Montréal, jusqu'à la fin de la session d'Automne 2018. Mon objectif à long terme est d'enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite. 
 
