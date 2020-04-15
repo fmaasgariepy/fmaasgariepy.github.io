@@ -6,7 +6,7 @@ Plus généralement, je m'intéresse aux approches combinatoires à différents 
 
 ## Thèse de doctorat
 
-**Titre : ** Modèles combinatoires pour le produit de polynômes de Schubert
+**Titre :** Modèles combinatoires pour le produit de polynômes de Schubert
 
 Pour un ensemble d'objets mathématiques, une base linéaire est un sous-ensemble tel que chaque objet du grand ensemble peut être exprimé de façon unique par une somme d'objets de ce petit ensemble. Les fonctions de Schur et les polynômes de Schubert constituent des bases pour des espaces de polynômes. Dans le cadre de mon mémoire, j'ai étudié les fonctions de Schur, qui forment une base de l'ensemble des polynômes symétriques. Les fonctions de Schur sont des cas particuliers des polynômes de Schubert, qui constituent également une base, cette fois pour un espace de polynômes plus grand.
 
@@ -18,14 +18,20 @@ Macdonald a décrit la combinatoire sous-jacente aux polynômes de Schubert, alo
 
 Quel modèle retenir? Chacun apporte certaines réponses, a ses avantages et ses défauts. Un bon modèle serait conséquent dans toutes les situations, ou du moins dans la majorité des cas, et permettrait de faire des manipulations directement sur les objets combinatoires pour avoir des résultats sur les polynômes de Schubert. Nous ne connaissons toutefois pas assez les différents modèles pour déterminer si le meilleur se trouve parmi ceux-ci, ou s'il reste encore à développer. 
 
+Je souhaite étudier les articles récents portant sur des modèles combinatoires des polynômes de Schubert pour faire une synthèse des connaissances du moment sur ceux-ci. Je propose d'analyser chacun de ces modèles sous la loupe de la théorie des cristaux, tel que je l'ai fait à la maîtrise. Cette approche des polynômes de Schubert par la théorie des cristaux a d'ailleurs été entamée par Anne Schilling.
+Finalement, je compte développer et poursuivre l'étude des modèles les plus prometteurs.
+
+**Un peu d'histoire:**
+
 Les polynômes de Schubert ont été introduits par Lascoux et Schützenberger, en 1982, dans le cadre de la cohomologie de la variété de drapeaux complète. La cohomologie est une façon de rendre algébriques des problèmes géométriques et permet dans ce contexte de décrire la structure de la variété pour mieux la comprendre. Lascoux et Schützenberger ont montré que les polynômes de Schubert forment une base de cette cohomologie. Le produit de deux tels polynômes se décompose donc en terme de la base des polynômes de Schubert.
 
 Les coefficients apparaissant dans cette décomposition donnent alors le nombre d'intersections de deux variétés de drapeaux. Les  polynômes de Schubert permettent donc de traiter ce problème géométrique de façon algébrique. Un problème fondamental pour la compréhension de la cohomologie des variétés de drapeaux est de comprendre comment développer le produit de polynômes de Schubert dans la base des polynômes de Schubert. Autrement dit, on cherche une formule pour décrire directement les coefficients apparaissant dans cette décomposition.
 
 Malheureusement cela se révèle plutôt difficile. Par l'argument géométrique énoncé plus haut, on sait que ces coefficients sont des entiers non-négatifs, ce qui explique l'intérêt d'exploiter la combinatoire pour la résolution de ce problème. En effet, on cherchera à y associer des objets combinatoires possédant des caractéristiques particulières et dont l'énumération donnerait exactement ces coefficients.
 
-Je souhaite étudier les articles récents portant sur des modèles combinatoires des polynômes de Schubert pour faire une synthèse des connaissances du moment sur ceux-ci. Je propose d'analyser chacun de ces modèles sous la loupe de la théorie des cristaux, tel que je l'ai fait à la maîtrise. Cette approche des polynômes de Schubert par la théorie des cristaux a d'ailleurs été entamée par Anne Schilling.
-Finalement, je compte développer et poursuivre l'étude des modèles les plus prometteurs.
+La complexité algorithmique du calcul des coefficients mentionnés ci-haut est liée à la question VP = VNP, équivalente à P = NP. Ce problème est un des sept problèmes du millénaire. Une façon d'invalider la proposition (et montrer  que VP n'est pas égal à VNP est de trouver un contre-exemple, et notre problème aurait ce potentiel. Cela illustre la complexité de calculer les $c_{u,v}^w$ en général. 
+
+Assaf a d'ailleurs écrit en 2017 qu'un problème ouvert fondamental en calcul de Schubert est de trouver une construction combinatoire positive pour ces coefficients.
 
 ## Thèse de maîtrise
 
