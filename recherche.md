@@ -29,7 +29,7 @@ Les coefficients apparaissant dans cette décomposition donnent alors le nombre 
 
 Malheureusement cela se révèle plutôt difficile. Par l'argument géométrique énoncé plus haut, on sait que ces coefficients sont des entiers non-négatifs, ce qui explique l'intérêt d'exploiter la combinatoire pour la résolution de ce problème. En effet, on cherchera à y associer des objets combinatoires possédant des caractéristiques particulières et dont l'énumération donnerait exactement ces coefficients.
 
-La complexité algorithmique du calcul des coefficients mentionnés ci-haut est liée à la question VP = VNP, équivalente à P = NP. Ce problème est un des sept problèmes du millénaire. Une façon d'invalider la proposition (et montrer  que VP n'est pas égal à VNP est de trouver un contre-exemple, et notre problème aurait ce potentiel. Cela illustre la complexité de calculer les $c_{u,v}^w$ en général. 
+La complexité algorithmique du calcul des coefficients mentionnés ci-haut est liée à la question VP = VNP, équivalente à P = NP. Ce problème est un des sept problèmes du millénaire. Une façon d'invalider la proposition (et montrer  que VP n'est pas égal à VNP est de trouver un contre-exemple, et notre problème aurait ce potentiel. Cela illustre la complexité de calculer ces coefficients en général. 
 
 Assaf a d'ailleurs écrit en 2017 qu'un problème ouvert fondamental en calcul de Schubert est de trouver une construction combinatoire positive pour ces coefficients.
 
