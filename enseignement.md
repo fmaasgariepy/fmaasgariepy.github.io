@@ -1,13 +1,11 @@
 ## Activités d'enseignement
 
-### Enseignement
-
-#### Enseignement à l'université (chargée de cours)
+### Enseignement à l'université (chargée de cours)
 À la session d'Hiver 2020, j'ai enseigné le cours **Mathématiques pour l'informatique (INF1132)**. 
 
 Ce cours s'adresse aux étudiants en première année du baccalauréat en informatique ou génie logiciel. Il vise à introduire les étudiants aux notions mathématiques fondamentales en informatique et qui leur seront utiles tout au long de leur parcours. Les notions couvertes par ce cours comprennent la logique, les ensembles et les fonctions ensemblistes, les algorithmes, la complexité algorithmique, la récurrence, la théorie des graphes, etc.
 
-#### Enseignement au collégial
+### Enseignement au collégial
 Du 6 novembre 2018 à la fin de la session d'Automne 2018 j'ai effectué le remplacement de Marie-Eve Harvie au Cégep du Vieux Montréal. J'ai enseigné les cours suivant:
 - **Mathématique appliquée à l'architecture I (Groupes 1-2)** 
 
