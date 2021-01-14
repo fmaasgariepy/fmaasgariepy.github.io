@@ -1,7 +1,7 @@
 ## Activités d'enseignement
 
 ### Enseignement à l'université (chargée de cours)
-À la session d'Hiver 2020, j'ai enseigné le cours **Mathématiques pour l'informatique (INF1132)**. 
+À la session d'Hiver 2020, j'ai enseigné le cours **Mathématiques pour l'informatique (INF1132)** à l'UQAM. 
 
 Ce cours s'adresse aux étudiants en première année du baccalauréat en informatique ou génie logiciel. Il vise à introduire les étudiants aux notions mathématiques fondamentales en informatique et qui leur seront utiles tout au long de leur parcours. Les notions couvertes par ce cours comprennent la logique, les ensembles et les fonctions ensemblistes, les algorithmes, la complexité algorithmique, la récurrence, la théorie des graphes, etc.
 
