@@ -1,10 +1,12 @@
 ## Intérêts de recherche
 
-Je m’intéresse à plusieurs sujets en combinatoire algébrique. Dans le cadre de mon mémoire, j’ai travaillé sur la théorie de la représentation, les tableaux domino, les produits de polynômes de Schur,  les produits de tableaux ainsi que sur les cristaux. Ce sont des sujets qui continuent à m’intéresser. Je m’intéresse présentement à divers algorithmes sur les tableaux de rubans (dont les tableaux domino sont un cas particulier). Dans le cadre de mon doctorat, je souhaite me pencher sur les produits de polynômes de Schubert (dont les polynômes de Schur sont un cas particuliers), et principalement les représentations combinatoires de ceux-ci. Ces polynômes sont fortement liés à la théorie de la représentation, et à la cohomologie des variétés de drapeaux, dont ils forment une base. Je m’intéresse également aux variétés dites de Hessenberg, qui généralisent les variétés de drapeaux et pour lesquelles une base combinatoire devrait exister. Il s’agit d’un sujet à la pointe de la recherche actuelle.
+Je m’intéresse à plusieurs sujets en combinatoire algébrique. Dans le cadre de mon mémoire, j’ai travaillé sur la théorie de la représentation, les tableaux domino, les produits de polynômes de Schur,  les produits de tableaux ainsi que sur les cristaux. Ce sont des sujets qui continuent à m’intéresser. Je m’intéresse présentement à divers algorithmes sur les tableaux de rubans (dont les tableaux domino sont un cas particulier). Dans le cadre de mon doctorat, je souhaite me pencher sur le problème du pléthysme, en exploitant la théorie des cristaux, les tableaux de tableaux de tableaux et les tableaux de rubans. L'objectif est d'utiliser ces objets combinatoires afin d'obtenir une formule close pour les coefficients de l'expansion du pléthysme de deux fonctions de Schur dans la base des fonctions de Schur. Ou du moins obtenir une formule dans certains cas particuliers. Il s'agit d'un problème ouvert sur lequel on ne sait encore très peu.
 
 Plus généralement, je m'intéresse aux approches combinatoires à différents problèmes mathématiques.
 
-## Thèse de doctorat
+Je m'intéresse également au problème du produit de polynômes de Schubert :
+
+## Thèse de doctorat (en cours de rectification)
 
 **Titre :** Modèles combinatoires pour le produit de polynômes de Schubert
 
