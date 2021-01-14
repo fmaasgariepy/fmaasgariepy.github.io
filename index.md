@@ -5,7 +5,7 @@ Je suis présentement étudiante au doctorat en mathématiques fondamentales à 
 ## [Enseignement](enseignement.md)
 J'enseigne au collégial et à l'université en tant que chargée de cours. Mon objectif à long terme est d'enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite. Cliquer sur le titre pour plus de détails.
 
-## [Vulgarisation des mathématiques](vulgarisation.md) et [Mathématiques interdisciplinaires](interdisciplinaire.md)
+## [Vulgarisation des mathématiques](vulgarisation.md) et [Mathématiques interdisciplinaires](multidisciplinaire.md)
 Je donne à l'occasion des balades mathématiques, Maths en ville, offertes par le Coeur des sciences de l'UQAM.Je suis également très intéressée à explorer les liens entre les mathématiques et d'autres domaines (arts visuels, architecture, physique, musique, enseignement, philosophie, géographie, sciences sociales, etc.) Cliquer sur le titre associé pour plus de détails.
 
 ### Sur moi
