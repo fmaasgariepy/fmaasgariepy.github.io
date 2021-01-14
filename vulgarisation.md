@@ -5,7 +5,7 @@ La balade est offerte principalement aux groupes scolaires du secondaire et du c
 J'ai personnellement animé une quinzaine de ces balades.
 
 <p align="center">
-  <img src="mathsenville.jpg" alt="mathsenville">
+  <img src="mathsenville.jpg" alt="mathsenville"> <img src="mathsenville1.jpg" alt="mathsenville1">
 </p>
 
 Le Devoir à publié en août 2019 un [article](https://www.ledevoir.com/vivre/560780/la-balade-maths-en-ville-devoile-montreal-sous-un-angle-mathematique) portant sur la balade. Elle a également fait l'objet d'une [entrevue](https://noovo.ca/videos/nvl/nvl-du-2-septembre-2020) sur les ondes de Noovo (voir vers la minute 10:06 du vidéo).
