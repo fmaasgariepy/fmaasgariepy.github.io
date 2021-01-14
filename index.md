@@ -1,6 +1,6 @@
 
 ## [Recherche](recherche.md)
-Je suis présentement étudiante au doctorat en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/). Mon sujet de thèse porte sur le pléthysme, abordé de façon combinatoire. Je m'intéresse également au produit des polynômes de Schur, celui des polynômes de Schubert, et la théorie e la représentation. Cliquer sur le titre pour plus de détails.
+Je suis présentement étudiante au doctorat en mathématiques fondamentales à l'Université du Québec à Montréal sous la direction de [Franco Saliola](http://lacim.uqam.ca/~saliola/). Mon sujet de thèse porte sur le pléthysme, abordé de façon combinatoire. Je m'intéresse également au produit des polynômes de Schur, celui des polynômes de Schubert, et leurs représentations combinatoires. Cliquer sur le titre pour plus de détails.
 
 ## [Enseignement](enseignement.md)
 J'enseigne au collégial et à l'université en tant que chargée de cours. Mon objectif à long terme est d'enseigner les mathématiques au niveau collégial, pour partager mon enthousiasme vis-à-vis leurs multiples applications et contradictions, et aider les étudiants dans leur réussite. Cliquer sur le titre pour plus de détails.
